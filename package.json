@@ -1,0 +1,22 @@
+{
+  "name": "autodeployment-setup-express",
+  "version": "1.0.0",
+  "description": "this is a sample express server that we are going to use to setup auto deployment pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ektaarora3501/autodeployment-setup-express.git"
+  },
+  "author": "Ekta Arora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ektaarora3501/autodeployment-setup-express/issues"
+  },
+  "homepage": "https://github.com/ektaarora3501/autodeployment-setup-express#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
